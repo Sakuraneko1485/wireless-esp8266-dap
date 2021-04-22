@@ -5,6 +5,7 @@ on: [push]
 env:
   UPLOAD_USER_FIRMWARE: ture
 
+
 jobs:
   build:
     runs-on: ubuntu-18.04
