@@ -2,9 +2,9 @@ name: build
 
 on: [push]
 
-env:
-  UPLOAD_USER_FIRMWARE: ture
 
+env:
+  UPLOAD_USER_FIRMWARE:  ture
 
 jobs:
   build:
